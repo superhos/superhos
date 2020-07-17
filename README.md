@@ -6,7 +6,7 @@
 
 Hi, I'm Sevens Chan, a creative frontEnd web developer from China.
 
-- 🔭 I’m currently working in ByteDance (Have you used TikTok?).
+- 🔭 I’m currently working in ByteDance.
 - 🌱 I’m currently improving my technical skill.
 - 💬 You can find me via Wechat. My wechat account id `hosea001`
 
