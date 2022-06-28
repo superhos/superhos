@@ -1,8 +1,5 @@
 
 ### Hi there, I'm [Sevens Chan!](https://www.chenhaotaishuaile.com) 👋
-
-<br />
-
 Hi, I'm Sevens Chan, a creative frontEnd web developer from China.
 
 - 🔭 I’m currently working in ByteDance.
