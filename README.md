@@ -2,7 +2,6 @@
 ### Hi there, I'm [Sevens Chan!](https://www.chenhaotaishuaile.com) 👋
 
 <br />
-<br />
 
 Hi, I'm Sevens Chan, a creative frontEnd web developer from China.
 
